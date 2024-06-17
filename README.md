@@ -1,3 +1,6 @@
+What are motion vectors?
+https://en.wikipedia.org/wiki/Motion_estimation
+
 # mv_extractor
 simple 2 frames motion vector extractor
 
